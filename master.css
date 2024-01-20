@@ -1,0 +1,96 @@
+.header-social-links {
+  padding-left: 20px;
+}
+.cantan1{
+  width: 1400px;
+  height: 788px;
+}
+.campany_name{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-style: italic;
+  font-family: fantasy;
+}
+.navbar-brand{
+  width: 60px;
+  height: 50px;
+}
+body{
+  background-color: red;
+}
+h2{
+  font-family: "Montserrat-bold";
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+img{
+  padding: 10px;
+}
+.footer{
+  background-color: yellow;
+}
+.corousel1{
+  /* margin-left: 550px;
+  width:400px;
+  align-items: center; */
+background-color: #f0eeee;
+}
+#shoes_slide{
+
+  text-align: center;
+  /* background-color: #EEE0C9; */
+  /* color: #fff; */
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#white_Shoes{
+  padding: 7% 15%;
+
+}
+#justIN{
+  padding: 7% 15%;
+}
+#big_photo{
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+
+#inventory .card:hover {
+    transition: all 0.3s ease;
+    box-shadow: 12px 15px 20px 0px rgba(46,61,73,0.15);
+}
+
+
+#inventory .view-btn {
+    background-color: #fff;
+    margin: -25px 0 0 0;
+    border-radius: 0 0 0 0;
+    font-size: 14px;
+    /* border: #e6de08; */
+    color: #000;
+
+}
+
+
+    #inventory .btn:hover {
+        background-color: #121212;
+        color: #fff;
+        border: 2px solid #121212;
+        transition: all 0.3s ease;
+        box-shadow: 12px 15px 20px 0px rgba(46,61,73,0.15);
+    }
+.carousel-item img{
+  /* height: 1280px;
+  width: 1280px; */
+}
+.cart{
+  margin-left: 450px;
+ margin-right: 20px;
+}
+#foot{
+  padding: 7% 15%;
+}
